@@ -30,6 +30,6 @@
 - [MyEdio](https://www.myedio.com) – Digital education platform (React + SCSS)
 - [Cloud SSM ERP](https://cloud.ssm-erp.com) – ERP UI development (Angular + Bootstrap)
 
-<h4>🎯 GitHub Status:</h4>
+## 🎯 GitHub Status:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnathdas&hide_border=false&include_all_commits=false&card_width=466&count_private=false&layout=compact" alt="SomnathDas" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=somnathdas&show_icons=true&locale=en" alt="SomnathDas" /></p>
